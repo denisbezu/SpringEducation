@@ -1,6 +1,6 @@
 package com.example.chapter3.constructor_injection;
 
-import com.example.demo.MessageProvider;
+import com.example.chapter4.Java_config.MessageProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

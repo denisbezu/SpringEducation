@@ -1,6 +1,6 @@
 package com.example.chapter3.setter_injection;
 
-import com.example.demo.MessageRenderer;
+import com.example.chapter4.Java_config.MessageRenderer;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class DeclareSpringComponents {

@@ -1,7 +1,6 @@
 package com.example.chapter3.constructor_injection;
 
-import com.example.demo.MessageProvider;
-import com.example.demo.MessageRenderer;
+import com.example.chapter4.Java_config.MessageProvider;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class DeclareSpringComponents {
